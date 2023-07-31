@@ -20,7 +20,7 @@ CodeSyncer is designed to simplify the process of syncing and updating your code
 
 To get CodeSyncer up and running on your own repository, follow these simple steps:
 
-1. Ensure you have a ColdShard server and an active GitHub repository, with the relevant config on your server. Open a ticket if you would like assistance. 
+1. Ensure you have a ColdShard server and an active GitHub repository, with the relevant config on your server. Follow [this](https://gist.github.com/TheUntraceable/ba721afc0cd7b672fcb7a4b728c459bf) guide if you need help. 
 
 2. Generate an API key on the [ColdShard panel](https://panel.coldshard.com/account/api). :key:
 
