@@ -63,7 +63,7 @@ jobs:
             "https://panel.coldshard.com/api/client/servers/12334/power"
 ```
 
-7. Customize the workflow as needed, replacing the server URL and JSON body with your own values.
+7. Customize the workflow as needed, replacing the server ID with your own.
 
 8. Commit and push the workflow file to your repository.
 
