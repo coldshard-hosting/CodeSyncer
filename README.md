@@ -1,6 +1,4 @@
-Searching the Internet...
-
-:file_folder: CodeSyncer - The Ultimate Server Restart Action :arrows_counterclockwise:
+# :file_folder: CodeSyncer - The Ultimate Server Restart Action :arrows_counterclockwise:
 
 Welcome to CodeSyncer, the action that brings your server to life! :boom:
 
