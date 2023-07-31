@@ -24,7 +24,7 @@ To get CodeSyncer up and running on your own repository, follow these simple ste
 
 1. Ensure you have a ColdShard server and an active GitHub repository.
 
-2. Generate an API key on the ColdShard panel. :key2:
+2. Generate an API key on the ColdShard panel. :key:
 
 3. In your GitHub repository, go to "Settings" :arrow_right: "Secrets" :arrow_right: "New repository secret".
 
